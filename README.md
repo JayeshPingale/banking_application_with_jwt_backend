@@ -1,5 +1,3 @@
-Here is a professional, interactive, and standout `README.md` file for your **Banking Application with JWT Backend** project. You can copy-paste it directly into your GitHub repo.  
-
 ***
 
 # Banking Application with JWT Backend 🏦🔐
@@ -168,3 +166,7 @@ Passionate Java developer working on **Spring Boot backend projects** with a foc
 If you find this project useful, don't forget to **star ⭐ the repository**!  
 
 ***
+📬 Contact
+Jayesh Pingale -  jayeshpingale27@gmail.com
+
+Project Link: https://github.com/JayeshPingale/banking_application_with_jwt_backend.git
